@@ -12,4 +12,4 @@ The expected output of running these MapReduce scripts would be the aggregated w
 - Each word encountered in the input data will be output along with its total count.
 - The output will be sorted alphabetically by word.
 
-![sss output](ss output.png)
+![ss output](ss output.png)
